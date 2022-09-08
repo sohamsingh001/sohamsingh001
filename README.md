@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**I am Soham Singh student of BCA**
+**I am Soham Singh student of BCA at Vivekanand College Surat**
 
 These are my basic details:
 
