@@ -4,9 +4,9 @@
 
 These are my basic details:
 
-- 🔭 I’m currently working on HTML/CSS/C++
-- 🌱 I’m currently learning OOPS
-- 👯 I’m looking to collaborate on Competitive Coding
+- 🔭 I’m currently working on Microservice and  archeieture
+- 🌱 I’m currently learning DAA
+- 👯  I have good knowledge of Competitive Coding
 - 🤔 I’m looking for help with Datat Structure
 - 💬 Ask me about anything
 - 📫 How to reach me: singhsoham298@gmail.com
